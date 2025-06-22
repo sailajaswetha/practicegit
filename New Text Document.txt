@@ -1,0 +1,1 @@
+If you create websites, web applications or mobile apps, or if you write any type of code, then, it's always good to use a version control system. This course will teach about one of the most popular and widely used version control systems today.   
